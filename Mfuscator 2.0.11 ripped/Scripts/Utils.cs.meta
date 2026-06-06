@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bf4b5e6de6ab79e4dac9b80dc9bccc1f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 256631
+  packageName: 'Mfuscator: IL2CPP Encryption'
+  packageVersion: 2.0.11
+  assetPath: Assets/Mfuscator/Scripts/Utils.cs
+  uploadId: 899432

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b0970566884399a43a87006b72413158
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 256631
+  packageName: 'Mfuscator: IL2CPP Encryption'
+  packageVersion: 2.0.11
+  assetPath: Assets/Mfuscator/Scripts/MfuscatorEditor.asmdef
+  uploadId: 899432

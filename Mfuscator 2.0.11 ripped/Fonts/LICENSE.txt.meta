@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0282e4a9a49c1904b865244fdb89d45c
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 256631
+  packageName: 'Mfuscator: IL2CPP Encryption'
+  packageVersion: 2.0.11
+  assetPath: Assets/Mfuscator/Fonts/LICENSE.txt
+  uploadId: 899432

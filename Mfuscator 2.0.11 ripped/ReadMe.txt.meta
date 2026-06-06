@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0ef8987097b73fd40a3f917fa9cb9aca
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 256631
+  packageName: 'Mfuscator: IL2CPP Encryption'
+  packageVersion: 2.0.11
+  assetPath: Assets/Mfuscator/ReadMe.txt
+  uploadId: 899432
