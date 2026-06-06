@@ -1,0 +1,19 @@
+{
+	"name": "MfuscatorEditor",
+	"rootNamespace": "Mfuscator",
+	"references": [],
+	"includePlatforms": [
+		"Editor"
+	],
+	"excludePlatforms": [],
+	"allowUnsafeCode": false,
+	"overrideReferences": false,
+	"precompiledReferences": [],
+	"autoReferenced": true,
+	"defineConstraints": [
+		"UNITY_EDITOR_WIN || UNITY_EDITOR_LINUX || UNITY_EDITOR_OSX",
+		"UNITY_2021_3_OR_NEWER"
+	],
+	"versionDefines": [],
+	"noEngineReferences": false
+}

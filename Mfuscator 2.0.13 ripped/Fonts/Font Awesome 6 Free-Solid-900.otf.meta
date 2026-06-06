@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: c604a5392a2fc3b4fa05dfd3c1118e4c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Font Awesome 6 Free
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 256631
+  packageName: 'Mfuscator: IL2CPP Encryption'
+  packageVersion: 2.0.13
+  assetPath: Assets/Mfuscator/Fonts/Font Awesome 6 Free-Solid-900.otf
+  uploadId: 908480
